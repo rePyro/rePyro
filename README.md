@@ -1,5 +1,7 @@
-## Hi there 👋
+Welcome to xSuperSteve's profile!
 
+Learning how to code and develop in our constantly expanding world. <br>
+Good luck on your own journeys!
 <!--
 **xSuperSteve/xSuperSteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
